@@ -49,5 +49,3 @@ cd recipe-finder
 - **Change Theme:** Click the palette icon in the top right corner to open the theme switcher and select your preferred color scheme.
 
 ---
-
-❤️ by AbdElRahman
